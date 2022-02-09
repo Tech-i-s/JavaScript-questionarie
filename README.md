@@ -1,3 +1,3 @@
 # JavaScript-questionarie
 
-Q1.What is JavaScript?
+## Q1.What is JavaScript?
